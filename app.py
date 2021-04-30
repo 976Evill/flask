@@ -14,7 +14,7 @@ def index():
 
 @app.route('/hello')
 def hello():
-    return 'Hello, World again'
+    return 'Hello, World again ;)'
 
 
 
